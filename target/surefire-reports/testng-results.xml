@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-01T18:26:28 IST" name="Suite" finished-at="2024-10-01T18:27:29 IST" duration-ms="61033">
+    <groups>
+    </groups>
+    <test started-at="2024-10-01T18:26:28 IST" name="Test" finished-at="2024-10-01T18:27:29 IST" duration-ms="61033">
+      <class name="com.myStore.testcases.Testcase_MyAccountPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.myStore.testcases.Testcase_MyAccountPage@4d5d943d]" started-at="2024-10-01T18:26:28 IST" name="setup" finished-at="2024-10-01T18:26:37 IST" duration-ms="9602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginW()[pri:0, instance:com.myStore.testcases.Testcase_MyAccountPage@4d5d943d]" started-at="2024-10-01T18:26:38 IST" name="verifyLoginW" finished-at="2024-10-01T18:26:41 IST" duration-ms="3153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginW -->
+        <test-method signature="verifySignOut()[pri:0, instance:com.myStore.testcases.Testcase_MyAccountPage@4d5d943d]" started-at="2024-10-01T18:26:41 IST" name="verifySignOut" finished-at="2024-10-01T18:26:43 IST" duration-ms="2614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myStore.testcases.Testcase_MyAccountPage@4d5d943d]" started-at="2024-10-01T18:26:43 IST" name="tearDown" finished-at="2024-10-01T18:26:47 IST" duration-ms="3212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myStore.testcases.Testcase_MyAccountPage -->
+      <class name="com.myStore.testcases.TC_ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.myStore.testcases.TC_ProductPageTest@a1153bc]" started-at="2024-10-01T18:26:47 IST" name="setup" finished-at="2024-10-01T18:26:49 IST" duration-ms="2794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="BuyProductAgain()[pri:0, instance:com.myStore.testcases.TC_ProductPageTest@a1153bc]" started-at="2024-10-01T18:26:49 IST" name="BuyProductAgain" finished-at="2024-10-01T18:27:18 IST" duration-ms="28539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyProductAgain -->
+        <test-method signature="addToCart()[pri:0, instance:com.myStore.testcases.TC_ProductPageTest@a1153bc]" started-at="2024-10-01T18:27:18 IST" name="addToCart" finished-at="2024-10-01T18:27:23 IST" duration-ms="5566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="addToWishListWithoutLogin()[pri:0, instance:com.myStore.testcases.TC_ProductPageTest@a1153bc]" started-at="2024-10-01T18:27:23 IST" name="addToWishListWithoutLogin" finished-at="2024-10-01T18:27:25 IST" duration-ms="1807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToWishListWithoutLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.myStore.testcases.TC_ProductPageTest@a1153bc]" started-at="2024-10-01T18:27:25 IST" name="tearDown" finished-at="2024-10-01T18:27:29 IST" duration-ms="3424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myStore.testcases.TC_ProductPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
